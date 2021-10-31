@@ -1,5 +1,5 @@
 ---
-title: About This Template
+title: Bruco bebe
 nav: About
 nav_order: 2
 ---
